@@ -11,5 +11,5 @@ do
 	git push
     #done
 	echo -e "\033[1;34mgit push finished.\033[m"
-    sleep 5; 
+    sleep 600; 
 done
