@@ -1,2 +1,0 @@
-Training started
-Epoch 1/100 - LR: 0.001000 | Train Loss: 2.3663, Acc: 0.0980 | Val Loss: 2.3509, Acc: 0.0960
