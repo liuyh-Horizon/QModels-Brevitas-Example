@@ -1,0 +1,9 @@
+nohup: ignoring input
+2026-01-13 21:10:31 - Starting: SFC_1bit.ipynb
+2026-01-15 04:24:29 - Finished: SFC_1bit.ipynb ✅
+2026-01-15 04:24:29 - Starting: SFC_2bit.ipynb
+b to notebook
+[NbConvertApp] Writing 11590221 bytes to SFC_1bit.ipynb
+2026-01-15 04:24:29 - Finished: SFC_1bit.ipynb ✅
+2026-01-15 04:24:29 - Starting: SFC_2bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_2bit.ipynb to notebook

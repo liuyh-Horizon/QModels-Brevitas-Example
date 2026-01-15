@@ -2,6 +2,8 @@
 /example/basic_model/classification/MNIST/train/
 /example/basic_model/classification/CIFAR10/dataset/
 /example/basic_model/classification/CIFAR10/train/
+/example/basic_model/classification/CIFAR100/dataset/
+/example/basic_model/classification/CIFAR100/train/
 /example/basic_model/classification/ImageNet/dataset/
 /example/basic_model/classification/ImageNet/train/
 
