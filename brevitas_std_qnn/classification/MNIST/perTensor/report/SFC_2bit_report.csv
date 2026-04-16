@@ -1,0 +1,13 @@
+Config,Accuracy
+batch64_lr_max_0.0005_min_1e-06_dp0.1,0.9856
+batch64_lr_max_0.001_min_1e-05_dp0.1,0.9855
+batch64_lr_max_0.0005_min_1e-05_dp0.1,0.9855
+batch64_lr_max_0.001_min_1e-06_dp0.05,0.9854
+batch64_lr_max_0.001_min_1e-06_dp0.1,0.9849
+batch64_lr_max_0.0005_min_1e-05_dp0.0,0.9849
+batch64_lr_max_0.001_min_1e-05_dp0.05,0.9845
+batch64_lr_max_0.001_min_1e-06_dp0.0,0.9845
+batch64_lr_max_0.0005_min_1e-05_dp0.05,0.9845
+batch64_lr_max_0.0005_min_1e-06_dp0.05,0.9842
+batch64_lr_max_0.001_min_1e-05_dp0.0,0.9832
+batch64_lr_max_0.0005_min_1e-06_dp0.0,0.9831

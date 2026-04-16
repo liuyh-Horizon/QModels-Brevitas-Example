@@ -1,0 +1,11 @@
+/classification/MNIST/dataset/
+/classification/MNIST/train/
+
+/classification/CIFAR10/dataset/
+/classification/CIFAR10/train/
+/classification/CIFAR100/dataset/
+/classification/CIFAR100/train/
+/classification/ImageNet/dataset/
+/classification/ImageNet/train/
+
+**/.ipynb_checkpoints/

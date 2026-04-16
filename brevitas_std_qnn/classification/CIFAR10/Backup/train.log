@@ -1,0 +1,109 @@
+nohup: ignoring input
+2026-01-22 01:29:56 - Skipping (already completed): CNV_1bit.ipynb
+2026-01-22 01:29:56 - Skipping (already completed): CNV_2bit.ipynb
+2026-01-22 01:29:56 - Skipping (already completed): CNV_4bit.ipynb
+2026-01-22 01:29:56 - Starting: CNV_8bit.ipynb
+2026-01-22 03:11:51 - Finished: CNV_8bit.ipynb ✅
+2026-01-22 03:11:51 - Starting: CNV_float.ipynb
+2026-01-22 05:35:40 - Finished: CNV_float.ipynb ✅
+2026-01-22 05:35:40 - Starting: CNV_mixed_111_112bit.ipynb
+2026-01-22 12:12:37 - Finished: CNV_mixed_111_112bit.ipynb ✅
+2026-01-22 12:12:37 - Starting: CNV_mixed_111_114bit.ipynb
+2026-01-22 16:15:56 - Finished: CNV_mixed_111_114bit.ipynb ✅
+2026-01-22 16:15:56 - Starting: CNV_mixed_111_118bit.ipynb
+2026-01-22 22:53:32 - Finished: CNV_mixed_111_118bit.ipynb ✅
+2026-01-22 22:53:32 - Starting: CNV_mixed_111_211bit.ipynb
+2026-01-23 05:31:13 - Finished: CNV_mixed_111_211bit.ipynb ✅
+2026-01-23 05:31:13 - Starting: CNV_mixed_111_411bit.ipynb
+2026-01-23 12:08:59 - Finished: CNV_mixed_111_411bit.ipynb ✅
+2026-01-23 12:08:59 - Starting: CNV_mixed_111_811bit.ipynb
+2026-01-23 18:47:57 - Finished: CNV_mixed_111_811bit.ipynb ✅
+2026-01-23 18:47:57 - Starting: CNV_mixed_124_124bit.ipynb
+2026-01-24 01:27:53 - Finished: CNV_mixed_124_124bit.ipynb ✅
+2026-01-24 01:27:53 - Starting: CNV_mixed_124_421bit.ipynb
+2026-01-24 08:07:47 - Finished: CNV_mixed_124_421bit.ipynb ✅
+2026-01-24 08:07:47 - Starting: CNV_mixed_211_111bit.ipynb
+2026-01-24 14:45:15 - Finished: CNV_mixed_211_111bit.ipynb ✅
+2026-01-24 14:45:15 - Starting: CNV_mixed_211_112bit.ipynb
+2026-01-24 21:24:56 - Finished: CNV_mixed_211_112bit.ipynb ✅
+2026-01-24 21:24:56 - Starting: CNV_mixed_211_211bit.ipynb
+2026-01-25 04:06:07 - Finished: CNV_mixed_211_211bit.ipynb ✅
+2026-01-25 04:06:07 - Starting: CNV_mixed_248_248bit.ipynb
+2026-01-25 10:46:53 - Finished: CNV_mixed_248_248bit.ipynb ✅
+2026-01-25 10:46:53 - Starting: CNV_mixed_248_842bit.ipynb
+2026-01-25 17:28:09 - Finished: CNV_mixed_248_842bit.ipynb ✅
+2026-01-25 17:28:09 - Starting: CNV_mixed_411_111bit.ipynb
+2026-01-26 00:03:24 - Finished: CNV_mixed_411_111bit.ipynb ✅
+2026-01-26 00:03:24 - Starting: CNV_mixed_411_114bit.ipynb
+2026-01-26 06:40:50 - Finished: CNV_mixed_411_114bit.ipynb ✅
+2026-01-26 06:40:50 - Starting: CNV_mixed_411_411bit.ipynb
+2026-01-26 13:32:36 - Finished: CNV_mixed_411_411bit.ipynb ✅
+2026-01-26 13:32:36 - Starting: CNV_mixed_421_124bit.ipynb
+2026-01-26 20:11:58 - Finished: CNV_mixed_421_124bit.ipynb ✅
+2026-01-26 20:11:58 - Starting: CNV_mixed_421_421bit.ipynb
+2026-01-27 02:51:37 - Finished: CNV_mixed_421_421bit.ipynb ✅
+2026-01-27 02:51:38 - Starting: CNV_mixed_811_111bit.ipynb
+2026-01-27 09:23:59 - Finished: CNV_mixed_811_111bit.ipynb ✅
+2026-01-27 09:23:59 - Starting: CNV_mixed_811_118bit.ipynb
+2026-01-27 16:01:09 - Finished: CNV_mixed_811_118bit.ipynb ✅
+2026-01-27 16:01:09 - Starting: CNV_mixed_811_811bit.ipynb
+2026-01-27 22:40:15 - Finished: CNV_mixed_811_811bit.ipynb ✅
+2026-01-27 22:40:15 - Starting: CNV_mixed_842_248bit.ipynb
+2026-01-28 05:16:34 - Finished: CNV_mixed_842_248bit.ipynb ✅
+2026-01-28 05:16:34 - Starting: CNV_mixed_842_842bit.ipynb
+2026-01-28 11:53:03 - Finished: CNV_mixed_842_842bit.ipynb ✅
+2026-01-28 11:53:03 - All notebooks executed successfully.
+5819 bytes to CNV_mixed_211_112bit.ipynb
+2026-01-24 21:24:56 - Finished: CNV_mixed_211_112bit.ipynb ✅
+2026-01-24 21:24:56 - Starting: CNV_mixed_211_211bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_211_211bit.ipynb to notebook
+[NbConvertApp] Writing 3079447 bytes to CNV_mixed_211_211bit.ipynb
+2026-01-25 04:06:07 - Finished: CNV_mixed_211_211bit.ipynb ✅
+2026-01-25 04:06:07 - Starting: CNV_mixed_248_248bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_248_248bit.ipynb to notebook
+[NbConvertApp] Writing 3025865 bytes to CNV_mixed_248_248bit.ipynb
+2026-01-25 10:46:53 - Finished: CNV_mixed_248_248bit.ipynb ✅
+2026-01-25 10:46:53 - Starting: CNV_mixed_248_842bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_248_842bit.ipynb to notebook
+[NbConvertApp] Writing 3002648 bytes to CNV_mixed_248_842bit.ipynb
+2026-01-25 17:28:09 - Finished: CNV_mixed_248_842bit.ipynb ✅
+2026-01-25 17:28:09 - Starting: CNV_mixed_411_111bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_411_111bit.ipynb to notebook
+[NbConvertApp] Writing 3135040 bytes to CNV_mixed_411_111bit.ipynb
+2026-01-26 00:03:24 - Finished: CNV_mixed_411_111bit.ipynb ✅
+2026-01-26 00:03:24 - Starting: CNV_mixed_411_114bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_411_114bit.ipynb to notebook
+[NbConvertApp] Writing 3167831 bytes to CNV_mixed_411_114bit.ipynb
+2026-01-26 06:40:50 - Finished: CNV_mixed_411_114bit.ipynb ✅
+2026-01-26 06:40:50 - Starting: CNV_mixed_411_411bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_411_411bit.ipynb to notebook
+[NbConvertApp] Writing 3074025 bytes to CNV_mixed_411_411bit.ipynb
+2026-01-26 13:32:36 - Finished: CNV_mixed_411_411bit.ipynb ✅
+2026-01-26 13:32:36 - Starting: CNV_mixed_421_124bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_421_124bit.ipynb to notebook
+[NbConvertApp] Writing 3050031 bytes to CNV_mixed_421_124bit.ipynb
+2026-01-26 20:11:58 - Finished: CNV_mixed_421_124bit.ipynb ✅
+2026-01-26 20:11:58 - Starting: CNV_mixed_421_421bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_421_421bit.ipynb to notebook
+[NbConvertApp] Writing 3017988 bytes to CNV_mixed_421_421bit.ipynb
+2026-01-27 02:51:37 - Finished: CNV_mixed_421_421bit.ipynb ✅
+2026-01-27 02:51:38 - Starting: CNV_mixed_811_111bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_811_111bit.ipynb to notebook
+[NbConvertApp] Writing 3106826 bytes to CNV_mixed_811_111bit.ipynb
+2026-01-27 09:23:59 - Finished: CNV_mixed_811_111bit.ipynb ✅
+2026-01-27 09:23:59 - Starting: CNV_mixed_811_118bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_811_118bit.ipynb to notebook
+[NbConvertApp] Writing 3130658 bytes to CNV_mixed_811_118bit.ipynb
+2026-01-27 16:01:09 - Finished: CNV_mixed_811_118bit.ipynb ✅
+2026-01-27 16:01:09 - Starting: CNV_mixed_811_811bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_811_811bit.ipynb to notebook
+[NbConvertApp] Writing 3064939 bytes to CNV_mixed_811_811bit.ipynb
+2026-01-27 22:40:15 - Finished: CNV_mixed_811_811bit.ipynb ✅
+2026-01-27 22:40:15 - Starting: CNV_mixed_842_248bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_842_248bit.ipynb to notebook
+[NbConvertApp] Writing 3055195 bytes to CNV_mixed_842_248bit.ipynb
+2026-01-28 05:16:34 - Finished: CNV_mixed_842_248bit.ipynb ✅
+2026-01-28 05:16:34 - Starting: CNV_mixed_842_842bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_842_842bit.ipynb to notebook
+[NbConvertApp] Writing 3039246 bytes to CNV_mixed_842_842bit.ipynb
+2026-01-28 11:53:03 - Finished: CNV_mixed_842_842bit.ipynb ✅

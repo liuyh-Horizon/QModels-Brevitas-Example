@@ -1,0 +1,16 @@
+VGG16_1bit.ipynb
+VGG16_2bit.ipynb
+VGG16_4bit.ipynb
+VGG16_8bit.ipynb
+VGG16_mixed_41111_111bit.ipynb
+VGG16_mixed_41111_114bit.ipynb
+VGG16_mixed_81111_111bit.ipynb
+VGG16_mixed_81111_118bit.ipynb
+VGG16_mixed_84211_248bit.ipynb
+VGG16_mixed_88442_248bit.ipynb
+VGG16_mixed_88444_221bit.ipynb
+VGG16_float.ipynb
+VGG16_mixed_11111_444bit.ipynb
+VGG16_mixed_11111_888bit.ipynb
+VGG16_mixed_44444_111bit.ipynb
+VGG16_mixed_88442_111bit.ipynb
