@@ -1,0 +1,21 @@
+nohup: ignoring input
+2026-04-17 02:21:35 - Starting: SFC_1bit.ipynb
+2026-04-17 05:02:40 - Finished: SFC_1bit.ipynb ✅
+2026-04-17 05:02:40 - Starting: SFC_2bit.ipynb
+2026-04-17 08:10:49 - Finished: SFC_2bit.ipynb ✅
+2026-04-17 08:10:49 - Starting: SFC_4bit.ipynb
+2026-04-17 11:18:29 - Finished: SFC_4bit.ipynb ✅
+2026-04-17 11:18:29 - Starting: SFC_8bit.ipynb
+2026-04-17 14:34:35 - Finished: SFC_8bit.ipynb ✅
+2026-04-17 14:34:35 - Starting: SFC_mixed_1112bit.ipynb
+:49 - Finished: SFC_2bit.ipynb ✅
+2026-04-17 08:10:49 - Starting: SFC_4bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_4bit.ipynb to notebook
+[NbConvertApp] Writing 1597068 bytes to SFC_4bit.ipynb
+2026-04-17 11:18:29 - Finished: SFC_4bit.ipynb ✅
+2026-04-17 11:18:29 - Starting: SFC_8bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_8bit.ipynb to notebook
+[NbConvertApp] Writing 1580274 bytes to SFC_8bit.ipynb
+2026-04-17 14:34:35 - Finished: SFC_8bit.ipynb ✅
+2026-04-17 14:34:35 - Starting: SFC_mixed_1112bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_1112bit.ipynb to notebook

@@ -1,0 +1,4 @@
+SFC_1bit.ipynb
+SFC_2bit.ipynb
+SFC_4bit.ipynb
+SFC_8bit.ipynb
