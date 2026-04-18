@@ -1,9 +1,9 @@
 nohup: ignoring input
-2026-04-17 02:20:48 - Starting: SFC_float.ipynb
-2026-04-17 02:54:42 - Finished: SFC_float.ipynb ✅
-2026-04-17 02:54:42 - All notebooks executed successfully.
+2026-04-17 23:37:44 - Starting: LFC_float.ipynb
+2026-04-18 00:26:50 - Finished: LFC_float.ipynb ✅
+2026-04-18 00:26:50 - All notebooks executed successfully.
 ok
-[NbConvertApp] Writing 1331023 bytes to SFC_float.ipynb
-2026-04-17 02:54:42 - Finished: SFC_float.ipynb ✅
-2026-04-17 02:54:42 - All notebooks executed successfully.
-2026-04-17 02:54:42 - Script interrupted or crashed.
+[NbConvertApp] Writing 2285087 bytes to LFC_float.ipynb
+2026-04-18 00:26:50 - Finished: LFC_float.ipynb ✅
+2026-04-18 00:26:50 - All notebooks executed successfully.
+2026-04-18 00:26:50 - Script interrupted or crashed.
