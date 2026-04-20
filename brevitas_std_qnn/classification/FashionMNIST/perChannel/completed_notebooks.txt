@@ -3,3 +3,12 @@ LFC_2bit.ipynb
 LFC_4bit.ipynb
 LFC_8bit.ipynb
 LFC_mixed_1112bit.ipynb
+LFC_mixed_1114bit.ipynb
+LFC_mixed_1118bit.ipynb
+LFC_mixed_1248bit.ipynb
+LFC_mixed_1428bit.ipynb
+LFC_mixed_2111bit.ipynb
+LFC_mixed_4111bit.ipynb
+LFC_mixed_8111bit.ipynb
+LFC_mixed_8241bit.ipynb
+LFC_mixed_8421bit.ipynb

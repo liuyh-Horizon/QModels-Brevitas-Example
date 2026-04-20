@@ -2,3 +2,13 @@ SFC_1bit.ipynb
 SFC_2bit.ipynb
 SFC_4bit.ipynb
 SFC_8bit.ipynb
+SFC_mixed_1112bit.ipynb
+SFC_mixed_1114bit.ipynb
+SFC_mixed_1118bit.ipynb
+SFC_mixed_1248bit.ipynb
+SFC_mixed_1428bit.ipynb
+SFC_mixed_2111bit.ipynb
+SFC_mixed_4111bit.ipynb
+SFC_mixed_8111bit.ipynb
+SFC_mixed_8241bit.ipynb
+SFC_mixed_8421bit.ipynb

@@ -8,14 +8,55 @@ nohup: ignoring input
 2026-04-18 12:51:51 - Starting: SFC_8bit.ipynb
 2026-04-18 16:36:57 - Finished: SFC_8bit.ipynb ✅
 2026-04-18 16:36:57 - Starting: SFC_mixed_1112bit.ipynb
-:24 - Finished: SFC_2bit.ipynb ✅
-2026-04-18 08:54:24 - Starting: SFC_4bit.ipynb
-[NbConvertApp] Converting notebook .//SFC_4bit.ipynb to notebook
-[NbConvertApp] Writing 2209399 bytes to SFC_4bit.ipynb
-2026-04-18 12:51:51 - Finished: SFC_4bit.ipynb ✅
-2026-04-18 12:51:51 - Starting: SFC_8bit.ipynb
-[NbConvertApp] Converting notebook .//SFC_8bit.ipynb to notebook
-[NbConvertApp] Writing 2192092 bytes to SFC_8bit.ipynb
-2026-04-18 16:36:57 - Finished: SFC_8bit.ipynb ✅
-2026-04-18 16:36:57 - Starting: SFC_mixed_1112bit.ipynb
-[NbConvertApp] Converting notebook .//SFC_mixed_1112bit.ipynb to notebook
+2026-04-18 20:08:47 - Finished: SFC_mixed_1112bit.ipynb ✅
+2026-04-18 20:08:47 - Starting: SFC_mixed_1114bit.ipynb
+2026-04-18 23:45:46 - Finished: SFC_mixed_1114bit.ipynb ✅
+2026-04-18 23:45:46 - Starting: SFC_mixed_1118bit.ipynb
+2026-04-19 03:05:35 - Finished: SFC_mixed_1118bit.ipynb ✅
+2026-04-19 03:05:35 - Starting: SFC_mixed_1248bit.ipynb
+2026-04-19 06:47:44 - Finished: SFC_mixed_1248bit.ipynb ✅
+2026-04-19 06:47:44 - Starting: SFC_mixed_1428bit.ipynb
+2026-04-19 10:40:37 - Finished: SFC_mixed_1428bit.ipynb ✅
+2026-04-19 10:40:37 - Starting: SFC_mixed_2111bit.ipynb
+2026-04-19 14:11:24 - Finished: SFC_mixed_2111bit.ipynb ✅
+2026-04-19 14:11:24 - Starting: SFC_mixed_4111bit.ipynb
+2026-04-19 17:43:31 - Finished: SFC_mixed_4111bit.ipynb ✅
+2026-04-19 17:43:31 - Starting: SFC_mixed_8111bit.ipynb
+2026-04-19 21:16:42 - Finished: SFC_mixed_8111bit.ipynb ✅
+2026-04-19 21:16:42 - Starting: SFC_mixed_8241bit.ipynb
+2026-04-20 01:01:49 - Finished: SFC_mixed_8241bit.ipynb ✅
+2026-04-20 01:01:49 - Starting: SFC_mixed_8421bit.ipynb
+2026-04-20 04:32:35 - Finished: SFC_mixed_8421bit.ipynb ✅
+2026-04-20 04:32:35 - All notebooks executed successfully.
+bit.ipynb
+2026-04-19 03:05:35 - Finished: SFC_mixed_1118bit.ipynb ✅
+2026-04-19 03:05:35 - Starting: SFC_mixed_1248bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_1248bit.ipynb to notebook
+[NbConvertApp] Writing 2193181 bytes to SFC_mixed_1248bit.ipynb
+2026-04-19 06:47:44 - Finished: SFC_mixed_1248bit.ipynb ✅
+2026-04-19 06:47:44 - Starting: SFC_mixed_1428bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_1428bit.ipynb to notebook
+[NbConvertApp] Writing 2191515 bytes to SFC_mixed_1428bit.ipynb
+2026-04-19 10:40:37 - Finished: SFC_mixed_1428bit.ipynb ✅
+2026-04-19 10:40:37 - Starting: SFC_mixed_2111bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_2111bit.ipynb to notebook
+[NbConvertApp] Writing 2045681 bytes to SFC_mixed_2111bit.ipynb
+2026-04-19 14:11:24 - Finished: SFC_mixed_2111bit.ipynb ✅
+2026-04-19 14:11:24 - Starting: SFC_mixed_4111bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_4111bit.ipynb to notebook
+[NbConvertApp] Writing 2032358 bytes to SFC_mixed_4111bit.ipynb
+2026-04-19 17:43:31 - Finished: SFC_mixed_4111bit.ipynb ✅
+2026-04-19 17:43:31 - Starting: SFC_mixed_8111bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_8111bit.ipynb to notebook
+[NbConvertApp] Writing 2028177 bytes to SFC_mixed_8111bit.ipynb
+2026-04-19 21:16:42 - Finished: SFC_mixed_8111bit.ipynb ✅
+2026-04-19 21:16:42 - Starting: SFC_mixed_8241bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_8241bit.ipynb to notebook
+[NbConvertApp] Writing 2148841 bytes to SFC_mixed_8241bit.ipynb
+2026-04-20 01:01:49 - Finished: SFC_mixed_8241bit.ipynb ✅
+2026-04-20 01:01:49 - Starting: SFC_mixed_8421bit.ipynb
+[NbConvertApp] Converting notebook .//SFC_mixed_8421bit.ipynb to notebook
+[NbConvertApp] Writing 2153154 bytes to SFC_mixed_8421bit.ipynb
+2026-04-20 04:32:35 - Finished: SFC_mixed_8421bit.ipynb ✅
+2026-04-20 04:32:35 - All notebooks executed successfully.
+2026-04-20 04:32:35 - Script interrupted or crashed.
