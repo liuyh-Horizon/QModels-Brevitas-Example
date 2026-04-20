@@ -1,46 +1,13 @@
 nohup: ignoring input
-2026-04-17 17:00:36 - Starting: CNV_1bit.ipynb
-2026-04-17 21:47:16 - Error during: CNV_1bit.ipynb ❌
-2026-04-17 21:47:16 - Aborting. You can rerun the script to resume from here.
-| Kernel died while waiting for execute reply.
-Traceback (most recent call last):
-  File "/home/yuhao/anaconda3/envs/brevitas/bin/jupyter-nbconvert", line 11, in <module>
-    sys.exit(main())
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/jupyter_core/application.py", line 283, in launch_instance
-    super().launch_instance(argv=argv, **kwargs)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/traitlets/config/application.py", line 1075, in launch_instance
-    app.start()
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/nbconvertapp.py", line 420, in start
-    self.convert_notebooks()
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
-    self.convert_single_notebook(notebook_filename)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/nbconvertapp.py", line 563, in convert_single_notebook
-    output, resources = self.export_single_notebook(
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/nbconvertapp.py", line 487, in export_single_notebook
-    output, resources = self.exporter.from_filename(
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
-    return self.from_file(f, resources=resources, **kw)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
-    return self.from_notebook_node(
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/exporters/notebook.py", line 36, in from_notebook_node
-    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
-    nb_copy, resources = self._preprocess(nb_copy, resources)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/exporters/exporter.py", line 353, in _preprocess
-    nbc, resc = preprocessor(nbc, resc)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
-    return self.preprocess(nb, resources)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/preprocessors/execute.py", line 103, in preprocess
-    self.preprocess_cell(cell, resources, index)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbconvert/preprocessors/execute.py", line 124, in preprocess_cell
-    cell = self.execute_cell(cell, index, store_history=True)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
-    return loop.run_until_complete(inner)
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/asyncio/base_events.py", line 647, in run_until_complete
-    return future.result()
-  File "/home/yuhao/anaconda3/envs/brevitas/lib/python3.9/site-packages/nbclient/client.py", line 1005, in async_execute_cell
-    raise DeadKernelError("Kernel died") from None
-nbclient.exceptions.DeadKernelError: Kernel died
-2026-04-17 21:47:16 - Error during: CNV_1bit.ipynb ❌
-2026-04-17 21:47:16 - Aborting. You can rerun the script to resume from here.
-2026-04-17 21:47:16 - Script interrupted or crashed.
+2026-04-20 00:23:33 - Starting: CNV_1bit.ipynb
+2026-04-20 10:39:00 - Finished: CNV_1bit.ipynb ✅
+2026-04-20 10:39:00 - Starting: CNV_2bit.ipynb
+2026-04-20 15:14:25 - Finished: CNV_2bit.ipynb ✅
+2026-04-20 15:14:25 - Starting: CNV_4bit.ipynb
+d: CNV_1bit.ipynb ✅
+2026-04-20 10:39:00 - Starting: CNV_2bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_2bit.ipynb to notebook
+[NbConvertApp] Writing 1625054 bytes to CNV_2bit.ipynb
+2026-04-20 15:14:25 - Finished: CNV_2bit.ipynb ✅
+2026-04-20 15:14:25 - Starting: CNV_4bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_4bit.ipynb to notebook
