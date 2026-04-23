@@ -1,4 +1,29 @@
 nohup: ignoring input
 2026-04-21 21:22:34 - Starting: CNV_1bit.ipynb
-2026-04-21 21:22:34 - Starting: CNV_1bit.ipynb
-[NbConvertApp] Converting notebook .//CNV_1bit.ipynb to notebook
+2026-04-22 09:33:38 - Finished: CNV_1bit.ipynb ✅
+2026-04-22 09:33:38 - Starting: CNV_2bit.ipynb
+2026-04-22 15:03:10 - Finished: CNV_2bit.ipynb ✅
+2026-04-22 15:03:10 - Starting: CNV_4bit.ipynb
+2026-04-22 20:29:40 - Finished: CNV_4bit.ipynb ✅
+2026-04-22 20:29:40 - Starting: CNV_8bit.ipynb
+2026-04-23 01:53:55 - Finished: CNV_8bit.ipynb ✅
+2026-04-23 01:53:55 - Starting: CNV_mixed_111_112bit.ipynb
+2026-04-23 07:22:56 - Finished: CNV_mixed_111_112bit.ipynb ✅
+2026-04-23 07:22:56 - Starting: CNV_mixed_111_114bit.ipynb
+2026-04-23 12:47:42 - Finished: CNV_mixed_111_114bit.ipynb ✅
+2026-04-23 12:47:42 - Starting: CNV_mixed_111_118bit.ipynb
+b ✅
+2026-04-22 20:29:40 - Starting: CNV_8bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_8bit.ipynb to notebook
+[NbConvertApp] Writing 2107106 bytes to CNV_8bit.ipynb
+2026-04-23 01:53:55 - Finished: CNV_8bit.ipynb ✅
+2026-04-23 01:53:55 - Starting: CNV_mixed_111_112bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_111_112bit.ipynb to notebook
+[NbConvertApp] Writing 2159414 bytes to CNV_mixed_111_112bit.ipynb
+2026-04-23 07:22:56 - Finished: CNV_mixed_111_112bit.ipynb ✅
+2026-04-23 07:22:56 - Starting: CNV_mixed_111_114bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_111_114bit.ipynb to notebook
+[NbConvertApp] Writing 2122538 bytes to CNV_mixed_111_114bit.ipynb
+2026-04-23 12:47:42 - Finished: CNV_mixed_111_114bit.ipynb ✅
+2026-04-23 12:47:42 - Starting: CNV_mixed_111_118bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_111_118bit.ipynb to notebook
