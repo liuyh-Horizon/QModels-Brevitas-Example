@@ -1,0 +1,13 @@
+nohup: ignoring input
+2026-04-23 15:48:27 - Starting: CNV_float.ipynb
+2026-04-23 17:13:06 - Finished: CNV_float.ipynb ✅
+2026-04-23 17:13:06 - Starting: VGG16_float.ipynb
+2026-04-23 21:03:15 - Finished: VGG16_float.ipynb ✅
+2026-04-23 21:03:15 - All notebooks executed successfully.
+nb ✅
+2026-04-23 17:13:06 - Starting: VGG16_float.ipynb
+[NbConvertApp] Converting notebook .//VGG16_float.ipynb to notebook
+[NbConvertApp] Writing 2429172 bytes to VGG16_float.ipynb
+2026-04-23 21:03:15 - Finished: VGG16_float.ipynb ✅
+2026-04-23 21:03:15 - All notebooks executed successfully.
+2026-04-23 21:03:15 - Script interrupted or crashed.
