@@ -1,0 +1,2 @@
+Epoch,Batch Size,LR_max,LR_min,Dropout,Acc,Loss
+200,128,0.1000,0.000100,0.0000,0.9360,0.2397

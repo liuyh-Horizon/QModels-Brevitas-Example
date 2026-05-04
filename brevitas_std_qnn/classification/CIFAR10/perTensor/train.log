@@ -1,0 +1,18 @@
+nohup: ignoring input
+2026-05-03 11:59:00 - Skipping (already completed): CNV_1bit.ipynb
+2026-05-03 11:59:00 - Starting: CNV_2bit.ipynb
+2026-05-03 15:14:11 - Finished: CNV_2bit.ipynb ✅
+2026-05-03 15:14:11 - Starting: CNV_4bit.ipynb
+2026-05-03 22:58:31 - Finished: CNV_4bit.ipynb ✅
+2026-05-03 22:58:31 - Starting: CNV_8bit.ipynb
+2026-05-04 06:36:17 - Finished: CNV_8bit.ipynb ✅
+2026-05-04 06:36:17 - Starting: CNV_mixed_111_112bit.ipynb
+ting notebook .//CNV_4bit.ipynb to notebook
+[NbConvertApp] Writing 21444323 bytes to CNV_4bit.ipynb
+2026-05-03 22:58:31 - Finished: CNV_4bit.ipynb ✅
+2026-05-03 22:58:31 - Starting: CNV_8bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_8bit.ipynb to notebook
+[NbConvertApp] Writing 21266976 bytes to CNV_8bit.ipynb
+2026-05-04 06:36:17 - Finished: CNV_8bit.ipynb ✅
+2026-05-04 06:36:17 - Starting: CNV_mixed_111_112bit.ipynb
+[NbConvertApp] Converting notebook .//CNV_mixed_111_112bit.ipynb to notebook

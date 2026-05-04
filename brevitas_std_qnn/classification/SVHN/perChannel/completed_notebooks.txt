@@ -4,3 +4,13 @@ CNV_4bit.ipynb
 CNV_8bit.ipynb
 CNV_mixed_111_112bit.ipynb
 CNV_mixed_111_114bit.ipynb
+CNV_mixed_111_118bit.ipynb
+CNV_mixed_124_488bit.ipynb
+CNV_mixed_211_111bit.ipynb
+CNV_mixed_411_111bit.ipynb
+CNV_mixed_421_124bit.ipynb
+CNV_mixed_421_421bit.ipynb
+CNV_mixed_811_111bit.ipynb
+CNV_mixed_842_248bit.ipynb
+CNV_mixed_842_842bit.ipynb
+CNV_mixed_884_421bit.ipynb
