@@ -1,0 +1,2 @@
+Epoch,Batch Size,LR_max,LR_min,Dropout,Top1,Top5
+90,512,0.010000,0.000010,0.0000,0.6707,0.8723

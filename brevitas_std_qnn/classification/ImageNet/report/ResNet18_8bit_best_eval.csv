@@ -1,0 +1,2 @@
+model,top1,top5,loss
+ResNet18_8bit,0.6707,0.8723,1.4238
